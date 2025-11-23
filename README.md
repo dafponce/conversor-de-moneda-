@@ -171,7 +171,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 **Daniel Flores**
 - GitHub: [@Dafponce](https://github.com/dafponce)
-- Email: tu-email@ejemplo.com
+- Email: dafponce@gmail.com
 
 ## 🙏 Agradecimientos
 
